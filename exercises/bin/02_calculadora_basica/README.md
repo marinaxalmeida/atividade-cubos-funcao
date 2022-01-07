@@ -43,3 +43,5 @@ Entrada:
 Saída:
 	Operação inválida
 ```
+
+### [Vídeo explicativo](https://drive.google.com/file/d/1i7tsAVG5kWdTPy3BrMdSRLHSMJy_5rHV/view?usp=sharing)
