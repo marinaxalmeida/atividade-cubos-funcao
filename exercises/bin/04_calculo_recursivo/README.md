@@ -26,3 +26,5 @@ Entrada: 23
 
 Saída: Todos valores somados de 0 até 23: 276
 ```
+
+### [Vídeo explicativo](https://drive.google.com/file/d/1MUOTx_0udeqDUtU5o-GD59rztjuKClVF/view?usp=sharing)
