@@ -33,3 +33,13 @@ Entrada:
 Saída:
 	Resultado de 5.3 * 4.25: 22.52
 ```
+
+```
+Entrada:
+	valor1 = 5.3
+	valor2 = 4.25
+	operação: 5
+
+Saída:
+	Operação inválida
+```
