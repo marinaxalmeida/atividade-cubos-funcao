@@ -1,31 +1,29 @@
 ﻿![](https://i.imgur.com/xG74tOh.png)
 
-# M01 - Lista - Exercício 1 - Área de um Quadrado
+# M01 - A07 - Exercício 5 - Sequência de Fibonacci
 
 ## Objetivo
 
-Calcular a área de um quadrado a partir do valor dos lados.
-
-- Lembrando que a premissa (o que se espera) de uma figura ser considerada um quadrado é ter os lados iguais.
+Criar uma function recursiva para demonstrar a Sequência de Fibonacci.
 
 ## Instruções
 
-1. Escreva um algoritmo em Dart que calcule a área de um quadrado.
-2. Exibir o resultado na tela.
+1. Escreva um algoritmo em Dart que receba um número inteiro.
+2. Crie uma function recursiva para calcular e validar os números da Sequência de Fibonacci até o valor informado.
+3. Mostre o resultado na tela.
 
 ## Casos de Testes
 
 ```
-Entrada: 3
-Saída: 9
-```
-	
-```
-Entrada: 5
-Saída: 25
+Entrada: 10
+
+Saída:
+	Sequência de Fibonacci: 1 1 2 3 5 8
 ```
 
 ```
-Entrada: 15
-Saída: 225
+Entrada: 150
+
+Saída:
+	Sequência de Fibonacci: 1 1 2 3 5 8 13 21 34 55 89 144
 ```
