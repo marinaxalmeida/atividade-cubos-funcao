@@ -28,4 +28,4 @@ Saída:
 	Sequência de Fibonacci: 1 1 2 3 5 8 13 21 34 55 89 144
 ```
 
-### [Vídeo explicativo](https://drive.google.com/file/d/1MUOTx_0udeqDUtU5o-GD59rztjuKClVF/view?usp=sharing)
+### [Vídeo explicativo](https://drive.google.com/file/d/12ECWcsWGNSZLQJ1yz69Ro8VSM4niWiL5/view?usp=sharing)
