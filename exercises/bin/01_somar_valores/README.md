@@ -1,31 +1,24 @@
 ﻿![](https://i.imgur.com/xG74tOh.png)
 
-# M01 - Lista - Exercício 1 - Área de um Quadrado
+# M01 - A07 - Exercício 1 - Somar Valores
 
 ## Objetivo
 
-Calcular a área de um quadrado a partir do valor dos lados.
-
-- Lembrando que a premissa (o que se espera) de uma figura ser considerada um quadrado é ter os lados iguais.
+Somar os valores informados.
 
 ## Instruções
 
-1. Escreva um algoritmo em Dart que calcule a área de um quadrado.
-2. Exibir o resultado na tela.
+1. Escreva um algoritmo em Dart que receba 2 valores decimais.
+2. Crie uma function sem parâmetros e sem retorno para calcular a soma dos valores informados.
+3. Mostre o resultado na tela.
 
 ## Casos de Testes
 
 ```
-Entrada: 3
-Saída: 9
-```
-	
-```
-Entrada: 5
-Saída: 25
-```
+Entrada:
+	valor1 = 5.3
+	valor2 = 4.25
 
-```
-Entrada: 15
-Saída: 225
+Saída:
+	9.55
 ```
