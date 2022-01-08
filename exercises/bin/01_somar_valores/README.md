@@ -23,4 +23,4 @@ Saída:
 	9.55
 ```
 
-### [Vídeo explicativo](https://drive.google.com/file/d/1dohKTW4AF2LTM3x-oBvIHKOAaG3XQxaG/view?usp=sharing)
+### [Vídeo explicativo](https://drive.google.com/file/d/1XWD20-g4kX9Xtn7j1B9gJB_fQ_AurAbJ/view?usp=sharing)
