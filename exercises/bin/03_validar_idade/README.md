@@ -54,4 +54,4 @@ Saída:
 	Pode dirigir!
 ```
 
-### [Vídeo explicativo](https://drive.google.com/file/d/16Sg6GT6qSX1K9RZFfZgpeDoEqvAhqExh/view?usp=sharing)
+### [Vídeo explicativo](https://drive.google.com/file/d/1mjtrBEx5g-PVMY2HBP4bY-lYGr_CCSfi/view?usp=sharing)
