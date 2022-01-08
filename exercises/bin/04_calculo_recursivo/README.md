@@ -17,8 +17,7 @@ Criar uma function recursiva para somar os números até o valor informado.
 ```
 Entrada: 10
 
-Saída:
-	Todos valores somados de 0 até 10: 55
+Saída: Todos valores somados de 0 até 10: 55
 ```
 
 ```
